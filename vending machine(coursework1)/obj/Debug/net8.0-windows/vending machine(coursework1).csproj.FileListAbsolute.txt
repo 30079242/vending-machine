@@ -1,0 +1,17 @@
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\bin\Debug\net8.0-windows\vending machine(coursework1).exe
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\bin\Debug\net8.0-windows\vending machine(coursework1).deps.json
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\bin\Debug\net8.0-windows\vending machine(coursework1).runtimeconfig.json
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\bin\Debug\net8.0-windows\vending machine(coursework1).dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\bin\Debug\net8.0-windows\vending machine(coursework1).pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending_machine_coursework1_.MainForm.resources
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).csproj.GenerateResource.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).AssemblyInfoInputs.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).AssemblyInfo.cs
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).csproj.CoreCompileInputs.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\refint\vending machine(coursework1).dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).pdb
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending machine(coursework1).genruntimeconfig.cache
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\ref\vending machine(coursework1).dll
+C:\Users\saina\OneDrive - University of South Wales\year2\programming\w3vending machine\vending machine(coursework1)\obj\Debug\net8.0-windows\vending_machine_coursework1_.Properties.Resources.resources
